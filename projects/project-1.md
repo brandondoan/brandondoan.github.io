@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/TriviaHawaii.jpg
+image: images/Trivia Hawaii.jpg
 title: We're Better Than You
 date: 2017
 labels:
@@ -12,7 +12,7 @@ summary: Brought together a team that participates in trivia events.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/riviaHawaii.jpg">
+  <img class="ui image" src="../images/Trivia Hawaii.jpg">
 </div>
 
 We're Better Than You is the name of the trivia team I started with my girlfriend and a couple of our friends. We attend trivia events by Trivia Hawaii that are held at various locations throughout the week. 
