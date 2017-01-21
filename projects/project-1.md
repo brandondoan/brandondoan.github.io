@@ -22,3 +22,7 @@ In preparations for the events, we meet on a semi-weekly basis to practice and r
 Through this project I have gained experience drawing upon the knowledge and skills of other people. You find out very fast that even though you might think you know a lot, almost every person on your team brings valuable information to the table. I've also had to manage getting our group together with everyone on different schedules. (I'm surprised I'm not bald from the stress and headache). I've learned to work efficiently with a team as each question requires discussion and ultimately a decision in a timely manner. 
 
 If anyone else is interested in attending any events, Trivia Hawaii has a facebook page.. https://www.facebook.com/triviahawaii/
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Trivia Hawaii.jpg">
+</div>
