@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Workshop.png
+image: images/Workshop.jpg
 title: Workshop at Kauai Polynesian Festival 2015
 date: 2015
 labels:
