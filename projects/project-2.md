@@ -2,23 +2,18 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Workshop at Kauai Polynesian Festival 2015
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Polynesian Culture
+  - Volunteer work
+  - Arts & Crafts
+summary: Volunteered at the Kauai Polynesian Festival. Helped to set up a workshop as well as various other duties.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Kauai Polynesian Festival is held every year at the end of May. It showcases the cultures of the Tahitian, Samoan, Hawaiian, and Maori people. My volunteer work had me helping to set up one of the workshops within the festival. Particularly the lei making workshop for the Hawaii section of the festival. During the festival, I was one of the instructors when tourists came by to learn how to make grass leis. Unfortunately, my own skills in lei making are rudimentary, having only learned how a few days prior. I was soon relegated to collecting tickets as people entered the festival. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In this project, I was forced to step out of my comfort zone and expose myself to strange and new things. I learned a lot about the polynesian culture and broadened my world view. My personal skills were also improved, as I was able to meet new people and start up conversations with complete strangers over topics I knew little about. I learned that sometimes if you're not proficient at something you can still assist in other ways as long as you're willing to swallow your pride. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
