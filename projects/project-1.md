@@ -11,10 +11,6 @@ labels:
 summary: Brought together a team that participates in trivia events.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/Trivia Hawaii.jpg">
-</div>
-
 We're Better Than You is the name of the trivia team I started with my girlfriend and a couple of our friends. We attend trivia events by Trivia Hawaii that are held at various locations throughout the week. 
 
 In preparations for the events, we meet on a semi-weekly basis to practice and review various subjects in the hopes of improving our chances of winning. To our credit, we have not won once, but we do manage to still enjoy ourselves. 
