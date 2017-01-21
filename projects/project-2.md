@@ -11,7 +11,10 @@ labels:
 summary: Volunteered at the Kauai Polynesian Festival. Helped to set up a workshop as well as various other duties.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Kauai.jpg">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Kauai.jpg">
+</div>
+
 
 The Kauai Polynesian Festival is held every year at the end of May. It showcases the cultures of the Tahitian, Samoan, Hawaiian, and Maori people. My volunteer work had me helping to set up one of the workshops within the festival. Particularly the lei making workshop for the Hawaii section of the festival. During the festival, I was one of the instructors when tourists came by to learn how to make grass leis. Unfortunately, my own skills in lei making are rudimentary, having only learned how a few days prior. I was soon relegated to collecting tickets as people entered the festival. 
 
