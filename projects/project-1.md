@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Trivia Hawaii.jpg
+image: images/Trivia.jpg
 title: We're Better Than You
 date: 2017
 labels:
