@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/student.png
+image: images/student.jpg
 title: Tutor at Jefferson Elementary School 2015
 date: 2015
 labels:
@@ -11,4 +11,4 @@ labels:
 summary: Tutored ESL elementary students grade K-2 on a one-to-one basis.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/student.png">
+<img class="ui image" src="{{ site.baseurl }}/images/student.jpg">
